@@ -8,7 +8,7 @@
 <br>
 
 <p>2. Projeto visto pelo celular:</p>
-<img src=""/>
+<img src="https://github.com/raphaelsilvaph/Primeiro-Projeto-Responsivo/blob/main/Projeto%20Mobile.png?raw=true"/>
 
 <br>
 
